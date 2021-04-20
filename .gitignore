@@ -1,4 +1,4 @@
 /config/parameters.ini
 *.css.map
-/public/img
+/public/temp/*
 .vs
