@@ -1,0 +1,4 @@
+/config/parameters.ini
+*.css.map
+/public/img/*
+.vs
